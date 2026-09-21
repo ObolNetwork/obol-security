@@ -22,23 +22,7 @@ Any expected deviations and necessary clarifications around the standard are exp
 
 Obol is committed to working with researchers who submit security vulnerability notifications to us, to resolve those issues on an appropriate timeline, and to perform a coordinated release, giving credit to the reporter if they would so like.
 
-Please submit issues to **all** of the following main points of contact for
-security related issues according to the
-[initial contact](https://github.com/RD-Crypto-Spec/Responsible-Disclosure#initial-contact)
-and [giving details](https://github.com/RD-Crypto-Spec/Responsible-Disclosure#giving-details)
-guidelines.
-
-For all security related issues, Obol has the following main points of contact:
-
-| Contact                | Public key                                                                                                   | Email                             | Keybase                                         |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------- | ----------------------------------------------- |
-| obol security              |[PGP](<https://github.com/ObolNetwork/obol-security/blob/main/keys/obol security (B6D735C5) – Public.asc>) | security at obol.tech                ||
-| eth2devops              |[PGP](https://github.com/ObolNetwork/obol-security/blob/main/keys/eth2devops.asc) | eth2devops at obol.tech                |[@eth2devops](https://keybase.io/eth2devops/chat)|
-
-
-Include all contacts in your communication, PGP encrypted to all parties.
-
-You can also reach out informally over keybase encrypted chat to one or more of the contacts as per the details above.
+Please submit issues to the following main points of contact for security: security at obol.tech 
 
 ## Sending Disclosures
 
