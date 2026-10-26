@@ -8,11 +8,4 @@ This git repository is a central place for all other security-related informatio
 
 * Security audits ([`audits`](/audits))
 * Public disclosures ([`disclosures`](/disclosures))
-* Security contact PGP keys ([`keys`](/keys))
 * Incidents postmortems ([`postmortems`](/postmortems))
-
-## Verify
-The files contained in this repository can be verified in two ways:
-
-* By verifying the git commit tags (`git tag -v`)
-* By verifying the detached PGP signatures provided for most files included here
