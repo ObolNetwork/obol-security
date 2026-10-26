@@ -22,7 +22,9 @@ Any expected deviations and necessary clarifications around the standard are exp
 
 Obol is committed to working with researchers who submit security vulnerability notifications to us, to resolve those issues on an appropriate timeline, and to perform a coordinated release, giving credit to the reporter if they would so like.
 
-Please submit issues to the following main points of contact for security: security at obol.tech 
+Please submit issues to the following main point of contact for security: security at obol.tech
+
+Send reports in plain text, with any proof of concept attached. We do not accept PGP-encrypted submissions.
 
 ## Sending Disclosures
 
@@ -45,7 +47,7 @@ In the case of a counterfeiting or fund-stealing bug affecting Obol, however, we
 
 ## More Information
 
-Additional security-related information about the Obol project including disclosures, signatures and PGP public keys can be found in the [obol-security](https://github.com/ObolNetwork/obol-security) repository.
+Additional security-related information about the Obol project including audits, disclosures and postmortems can be found in the [obol-security](https://github.com/ObolNetwork/obol-security) repository.
 
 ## Credits
 
