@@ -37,7 +37,7 @@ In the case where we fix a security issue in Obol that also affects the followin
 _Obol does not currently have any established bilateral disclosure agreements._
 
 ## Bug Bounty Program
-Obol's bug bounty policy is published [here](https://docs.obol.tech/docs/sec/bug-bounty)
+Obol's bug bounty policy is published [here](https://docs.obol.org/advanced-and-troubleshooting/security/bug-bounty)
 
 ## Deviations from the Standard
 
